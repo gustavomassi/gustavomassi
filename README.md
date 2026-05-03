@@ -9,10 +9,9 @@
 ## 🚀 Sobre mim
 
 🎓 Estudante de **Engenharia de Software**  
-💻 Focado em **Python, SQL e desenvolvimento de soluções backend**  
-🧠 Interesse em **Inteligência Artificial, automação e sistemas inteligentes**  
+💻 Focado em **Java, Spring, Sql e desenvolvimento de soluções backend**  
 📚 Construindo projetos práticos para evolução técnica constante  
-🎯 Objetivo: atuar profissionalmente com desenvolvimento de software e IA aplicada  
+🎯 Objetivo: atuar profissionalmente com desenvolvimento de software.
 
 ---
 
@@ -33,7 +32,6 @@
 ✔ Estruturas de Dados  
 ✔ APIs REST  
 ✔ Arquitetura de Software  
-✔ Inteligência Artificial aplicada  
 ✔ Engenharia de Software  
 
 ---
