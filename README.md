@@ -1,70 +1,83 @@
 # 👨🏻‍💻 Gustavo Queiroz
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=false&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Python+%7C+SQL+%7C+Intelig%C3%AAncia+Artificial;Construindo+solu%C3%A7%C3%B5es+reais+com+tecnologia" />
-</p>
+🚀 **Desenvolvedor Backend em formação | Java & Spring Boot**
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-🎓 Estudante de **Engenharia de Software**  
-💻 Focado em **Java, Spring, Sql e desenvolvimento de soluções backend**  
-📚 Construindo projetos práticos para evolução técnica constante  
-🎯 Objetivo: atuar profissionalmente com desenvolvimento de software.
+Sou estudante de Engenharia de Software com foco em desenvolvimento backend utilizando **Java, Spring Boot e bancos de dados relacionais**.
 
----
+Tenho experiência com análise de dados e resolução de problemas, e atualmente estou construindo projetos práticos aplicando **boas práticas de arquitetura de software (Clean Architecture e SOLID)**.
 
-## 🤖 Tecnologias e Ferramentas
-
-<p align="left">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</p>
+🎯 Busco oportunidade de **estágio em desenvolvimento backend** para evoluir tecnicamente e contribuir com soluções reais.
 
 ---
 
-## 🧠 Atualmente estudando
+## ⚙️ Tecnologias e Ferramentas
 
-✔ Banco de Dados  
-✔ Estruturas de Dados  
-✔ APIs REST  
-✔ Arquitetura de Software  
-✔ Engenharia de Software  
+### 💻 Backend
+
+* Java
+* Spring Boot
+* APIs REST
+* MySQL
+
+### 🧠 Fundamentos
+
+* Lógica de Programação
+* Estrutura de Dados
+* Clean Architecture (em aprendizado)
+
+### 📊 Dados
+
+* Power BI
+* Excel Avançado
+* Power Query
 
 ---
 
-## 📌 Projetos em destaque
+## 🚀 Projetos em destaque
 
-🔹 Chatbot inteligente com documentos PDF usando arquitetura RAG  
-🔹 Busca semântica com embeddings vetoriais  
-🔹 Projetos acadêmicos em Python  
-🔹 Aplicações voltadas para automação e lógica de software  
+### 🔹 Sistema de Ordem de Serviço (Java + MySQL)
+
+* Sistema completo para gestão de serviços
+* CRUD com persistência em banco de dados
+* Aplicação de regras de negócio
+* Organização em camadas
 
 ---
 
-## 📊 Estatísticas GitHub
+### 🔹 API REST com Spring Boot
 
-<p align="left">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavomassi&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
-  
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomassi&theme=tokyonight&layout=compact"
-  />
-</p>
+* Desenvolvimento de API RESTful
+* Estrutura em camadas (Controller, Service, Repository)
+* Integração com banco de dados
+* Aplicação de princípios SOLID
+
+---
+
+### 🔹 Chatbot com IA (RAG + LangChain)
+
+* Consulta inteligente em documentos PDF
+* Busca semântica com embeddings
+* Uso de banco vetorial (ChromaDB)
+
+---
+
+## 📈 Evolução atual
+
+* 📚 Estudando Arquitetura de Software
+* 📚 Aprendendo boas práticas com Spring Boot
+* 📚 Aprimorando lógica e estrutura de dados
 
 ---
 
 ## 🌐 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/SEUUSUARIO)
+* 💼 LinkedIn: https://www.linkedin.com/in/gustavo-queiroz-013916360/
+* 📧 Email: [gutopessoal@outlook.com](mailto:gutopessoal@outlook.com)
 
 ---
 
-⭐ Sempre evoluindo e construindo.
+⭐ Sempre evoluindo e construindo projetos reais.
